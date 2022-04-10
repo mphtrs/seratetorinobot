@@ -189,7 +189,7 @@ bot.action(listadiscoteche[0]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -230,7 +230,7 @@ bot.action(listadiscoteche[1]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -270,7 +270,7 @@ bot.action(listadiscoteche[2]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -310,7 +310,7 @@ bot.action(listadiscoteche[3]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -349,7 +349,7 @@ bot.action(listadiscoteche[4]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -388,7 +388,7 @@ bot.action(listadiscoteche[5]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -428,7 +428,7 @@ bot.action(listadiscoteche[6]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -468,7 +468,7 @@ bot.action(listadiscoteche[7]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -508,7 +508,7 @@ bot.action(listadiscoteche[8]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
@@ -547,7 +547,7 @@ bot.action(listadiscoteche[9]+"P", (ctx)=>{
                 
             })
     } else {
-        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa sera", {
+        ctx.telegram.sendMessage(ctx.chat.id, "Non ci sono serate al "+nomedisco+ " organizzate per questa data", {
             reply_markup: {
                     inline_keyboard:[
                         [{text: "Indietro",callback_data: datain+"RISP"}]
